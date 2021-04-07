@@ -5,9 +5,29 @@ I made a Pokedex that fetches Pokemon, using javascript, html, and css and the p
 
 Live Link:
 [Pokedex](https://api-workshop.dianakao.repl.co/)
-- Try typing in the name of a Pokemon in the empty field above the Submit button. Click submit, and it should return the name and picture of the pokemon.
+- Try typing in the name of a Pokemon in the empty field above the Submit button. 
+- Click submit, and it should return the name and picture of the pokemon.
+
+<img width="1261" alt="Pokemon Pokedex" src="https://user-images.githubusercontent.com/14967456/113800598-3bee7700-9725-11eb-8c54-ee65b5027f07.png">
 
 ## Resources
+
+[The Pokemon API](https://pokeapi.co/)
+
+* All the Pokémon data you'll ever need in one place, easily accessible through a modern RESTful API. This is a full RESTful API linked to an extensive database detailing everything about the Pokémon main game series. It covers everything from Pokémon to Berry Flavors.
+
+[Diana's Replit](https://replit.com/@dianakao/api-workshop#script.js)
+
+* This is a link to my Pokemon index.html, script.js, and style.css files in Replit.
+
+[Public APIs](https://github.com/public-apis/public-apis)
+
+* This is a collective list of free APIs for use in software and web development. Notably, it's much easier to use the APIs that have Auth set to "No". 
+
+[Big List of Free and Open Public APIs](https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/)
+
+* This is a great list of public/free APIs.![Uploading Pokemon Pokedex.png…]()
+
 
 [Modern JavaScript Tutorial](https://javascript.info/)
 
@@ -21,10 +41,6 @@ Live Link:
 
 Cross-Origin Resource Sharing (CORS) is an HTTP-header based mechanism that allows a server to indicate any other origins (domain, scheme, or port) than its own from which a browser should permit loading of resources. 
 
-[PokeAPI](https://pokeapi.co/)
+[Definition of DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 
-* All the Pokémon data you'll ever need in one place, easily accessible through a modern RESTful API. This is a full RESTful API linked to an extensive database detailing everything about the Pokémon main game series. It covers everything from Pokémon to Berry Flavors.
-
-[Diana's Replit](https://replit.com/@dianakao/api-workshop#script.js)
-
-* This is a link to my Pokemon index.html, script.js, and style.css files in Replit.
+The Document Object Model (DOM) is the data representation of the objects that comprise the structure and content of a document on the web. It is a programming interface for HTML and XML documents. 
