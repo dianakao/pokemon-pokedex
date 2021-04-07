@@ -1,12 +1,18 @@
 # Pokemon Pokedex
+**Quagsire**               |  **Pikachu**
+:-------------------------:|:-------------------------:
+![Q](https://user-images.githubusercontent.com/14967456/113802109-1e6edc80-9728-11eb-8d2e-e3820eb74706.png) |  ![P](https://user-images.githubusercontent.com/14967456/113802488-d43a2b00-9728-11eb-814f-d6f99fc2965c.png)
 
 ## Description
 I made a Pokedex that fetches Pokemon, using javascript, html, and css and the pokeapi.
+It fetches results up through Generation VIII (8) which is the latest generation as of April 2021.
 
-Live Link:
-[Pokedex](https://api-workshop.dianakao.repl.co/)
+## **Live Link:**
+### [Pokedex](https://api-workshop.dianakao.repl.co/) 👈 
+#### Instructions:
 - Try typing in the name of a Pokemon in the empty field above the Submit button. 
 - Click submit, and it should return the name and picture of the pokemon.
+- Please Note: ^This live application only works in the **Chrome or Firefox** browsers. (Apologies to Safari users)
 
 <img width="1261" alt="Pokemon Pokedex" src="https://user-images.githubusercontent.com/14967456/113800598-3bee7700-9725-11eb-8c54-ee65b5027f07.png">
 
